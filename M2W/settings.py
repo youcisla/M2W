@@ -32,8 +32,8 @@ ALLOWED_HOSTS = []
 mail_USE_TLS=True
 mail_HOST="smtp.gmail.com"
 mail_PORT=587
-mail_HOST_USER="pythonexpert2023@gmail.com"
-mail_HOST_PASSWORD="mdppbu02"
+mail_HOST_USER="user@user.user"
+mail_HOST_PASSWORD="userpass"
 # Application definition
 
 INSTALLED_APPS = [
